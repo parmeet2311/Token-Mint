@@ -18,3 +18,5 @@ $ npm install
 
 ### 7. Launch Frontend
 `$ yarn start`
+
+### You can find Snapshots of output in Sample folder 
